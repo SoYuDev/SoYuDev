@@ -1,4 +1,8 @@
-<h1>Hey there, I'm Luis! <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"></h1>
+# Hey there, I'm Luis! <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35">
+
+![Profile Views](https://komarev.com/ghpvc/?username=SoYuDev&color=blue)
+
+## About Me
 
 I'm a Software Developer currently specializing in Full-Stack development.
 
@@ -7,7 +11,7 @@ I'm a Software Developer currently specializing in Full-Stack development.
 	- Web Application Development.
 - :bulb: I'm interested in: **Design, Scalability and Machine Learning.**
 - :space_invader: Previous experience in 3D Design <a href="https://www.artstation.com/s0yu" target="_blank" > (FX TD | Generalist)</a>
-## Skills
+## 🛠️ Skills
 
 <h4> Languages </h4>
 <span> 
@@ -29,8 +33,12 @@ I'm a Software Developer currently specializing in Full-Stack development.
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 </span>
 
-<div align="center">
-<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
+## 📈 GitHub Stats
 
-[![](https://github-readme-stats.vercel.app/api?username=SoYuDev&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/SoYuDev)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SoYuDev&show_icons=true&theme=radical" alt="SoYuDev's GitHub Stats" />
 </div>
+
+## 🔗 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/luisrodriguez99/)
