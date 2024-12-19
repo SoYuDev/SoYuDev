@@ -6,7 +6,7 @@ I'm a Software Developer currently specializing in Full-Stack development.
 	- Multi-Platform Applications Development.
 	- Web Application Development.
 - :bulb: I'm interested in: **Design, Scalability and Machine Learning.**
-- :space_invader: Previous experience in 3D Design (FX TD | Generalist).
+- :space_invader: Previous experience in 3D Design <a href="https://www.artstation.com/s0yu" target="_blank" > (FX TD | Generalist)</a>
 ## Skills
 
 <h4> Languages </h4>
